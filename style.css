@@ -1,0 +1,21 @@
+li {
+    border: 1px solid black;
+    margin: 5px;
+    list-style: none;
+}
+
+li .digit {
+    float: right;
+}
+
+.odd {
+    background-color: cadetblue;
+}
+
+.selected {
+    background-color: darkorange;
+}
+
+.summary {
+    float: left;
+}
