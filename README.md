@@ -1,3 +1,3 @@
 # PracticeFrontEnd
 
-HTML & CSS only challenge (without js) - this is also for fun
+HTML & CSS example - this is for teaching/showing to jr. devs that I am meeting
